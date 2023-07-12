@@ -7,7 +7,10 @@
 - 🌱 I’m currently learning React, PHP, and Laravel to further enhance my skills and create exceptional web experiences
 - 💞️ I’m looking forward to collaborating on innovative projects that challenge and inspire me.
 - 📫 Feel free to reach out to me through the provided contact information to discuss potential collaborations or connect. Let's bring ideas to life and make the web an exciting place to explore!
+
+  ---
 [![](https://visitcount.itsvg.in/api?id=CarloMiranda&icon=0&color=1)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mariocarlomiranda/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/carlo_rafols/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlo-miranda-910095265/) 
 
@@ -25,7 +28,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=CarloMiranda&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
----
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
