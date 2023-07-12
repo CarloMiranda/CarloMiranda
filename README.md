@@ -1,3 +1,10 @@
+<style>
+  h1 {
+    text-align: center;
+  }
+</style>
+
+
 ![68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966](https://github.com/CarloMiranda/CarloMiranda/assets/130446383/f59bce0f-c63a-4498-9001-0c45273a49bb)
                 <h1>👋 Hi, I’m Mario Carlo Miranda, a passionate web developer</h1>
 
